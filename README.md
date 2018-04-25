@@ -17,5 +17,9 @@ Future Improvement
 --------------------------------------------
 If I had more time I was going to add location finding system to display the location of each user and not just London. Also, i was going to implement five separate recycled views, each of them was going to represent a different day was going to be viewed in horizontal mode. Furthermore, I could improve my MVP architecture by adding an Interactor to allow the presenter to communicate with the retrofit. Lastly, i was going to make the UI of the application more elegant and add some other functionality as well, like search.
 
+You can run the demo in two ways:
+Install the app by building the apk or clone the project to your local file and run it from Android Studio
+
+Here is the link for Git - https://github.com/bereket11/OpenWeather.git
 
 
