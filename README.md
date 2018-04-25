@@ -1,9 +1,8 @@
 # Weather_demo
-This repository was made as part of the exercise: "https://github.com/buildit/org-design/blob/master/Recruitment/Exercises/mobile_developer.md" and it contains a simple application that presents the weather of London for the next five days.
 
 The application presents the weather with the use of a RecycleView, each item of the RecycleView present the weather condition for every three hours and it contains an image, the date and time, and the weather condition.
 
-The application is making use of the following technologies: Retrofit 2, RxJava, RecycleView, ButterKnife, Picasso and espresso. Furthermore, is build based on the MVP architectural pattern. 
+The application is making use of the following technologies: Retrofit 2, RxJava, ButterKnife and espresso. Furthermore, is build based on the MVP architectural pattern. 
 
 To use the application you need to installed it into your phone through Android Studio or with .apk format. Moreover, you need to have the wifi enable and give internet permission if it is asked. 
 
