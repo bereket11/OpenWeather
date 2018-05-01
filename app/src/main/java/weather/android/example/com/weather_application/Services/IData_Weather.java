@@ -6,10 +6,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;
 
-/**
- * Created by Panagiotis on 04/04/2017.
- */
-
 public interface IData_Weather {
 
     @GET("weather")
